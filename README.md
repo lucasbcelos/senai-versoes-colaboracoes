@@ -3,6 +3,6 @@ Repositório de Versões e Colaborações (Estudo Senai)
 
 readme de exemplo
 
-lembrei do comando: git commit
-lembrei do comando: git status
+<p> lembrei do comando: git commit <p>
+<p> lembrei do comando: git status <p>
 
